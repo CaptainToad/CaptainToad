@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @CaptainToad, also known as Captain Code or Dave Lewis
+- 👀 I’m interested in cool technology and technology that could change the world people lives for the better
+- 🌱 I’m currently learning (not necessarilly in this order):
+  - TDD
+  - Chrome Extensions
+  - Angular
+  - Containers
+  - Devops
+  - Python
+  - GoLang
+
+<!---
+CaptainToad/CaptainToad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
