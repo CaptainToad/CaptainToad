@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainToad, also known as Captain Code or Dave Lewis
-- 👀 I’m interested in cool technology and technology that could change the world people lives for the better
+- 👀 I’m interested in cool technology and technology that could change people lives for the better
 - 🌱 I’m currently learning (not necessarilly in this order):
   - TDD
   - Chrome Extensions
